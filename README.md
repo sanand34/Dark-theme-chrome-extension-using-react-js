@@ -1,5 +1,5 @@
 
-![Alt text](./Screen Shot 2020-11-21 at 12.05.58 AM.pngraw=true "Optional Title")
+![Alt text](./Screen Shot 2020-11-21 at 12.05.58 AM.png?raw=true "Optional Title")
 
 
 
