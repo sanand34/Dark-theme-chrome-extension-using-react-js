@@ -23,7 +23,7 @@ const Main = () => {
   
         <Draggable
           handle=".main-handle"
-          defaultPosition={ {x: 500, y: -20 }}
+          defaultPosition={ {x: 600, y: -20 }}
         >
           <div id="main" className="main-window" style={{
         }}>
